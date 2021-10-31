@@ -1,4 +1,4 @@
-## Olá, eu sou a tarciana23
+
 
 - 🌱 Atualmente estou estudando Front - end e terminando o curso de Ciência da Computação. Meu tcc é na área de Engenharia de Software com enfoque em Engenharia de Requisitos.
 - 🏬 Estou em busca de um estágio como desenvolvedora Front-end.
