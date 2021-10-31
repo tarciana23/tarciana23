@@ -1,4 +1,4 @@
-## Oiii eu sou a Tarciana Oliveira, formanda de Ciência da Computação e aspirante a desenvolvedora de software!
+## Oiii eu sou a Tarciana Oliveira!
 
 - 🌱 Atualmente estou estudando Front - end e terminando o curso de Ciência da Computação. Meu tcc é na área de Engenharia de Software com enfoque em Engenharia de Requisitos.
 - 🏬 Estou em busca de um estágio como desenvolvedora Front-end.
