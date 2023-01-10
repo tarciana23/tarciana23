@@ -1,4 +1,4 @@
-## Oiii, eu sou a Tarciana Oliveira!
+##Sejam bem vindo ao meu git!
 
 - 🌱 Atualmente estou estudando Front - end e terminando a minha graduação em Ciência da Computação.
 - 😄 Pronouns: ela/dela
