@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou estudando Front - end e terminando a minha graduação em Ciência da Computação.
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: fã de Star Wars⚫🤖⚔️
 
 <div align="center">
   <a href="https://github.com/tarciana23">
