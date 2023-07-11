@@ -1,7 +1,9 @@
 ##Sejam bem vindo ao meu git!
 
-- 🌱 Atualmente estou estudando Front - end e terminando a minha graduação em Ciência da Computação.
-- 😄 Pronouns: ela/dela
+- 🎓 Graduada em Ciência da computação;
+- 📙 Estudante da pós graduação em Engenharia de Software;
+- 🌱 Estudando Front - end !
+
 
 <div align="center">
   <a href="https://github.com/tarciana23">
