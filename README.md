@@ -1,7 +1,7 @@
 ##Sejam bem vindo ao meu git!
 
 - 🎓 Graduada em Ciência da computação;
-- 📙 Estudante da pós graduação em Engenharia de Software;
+- 📙 Estudante da tecnólogo em Banco de Dados;
 - 🌱 Estudando Front - end !
 
 
