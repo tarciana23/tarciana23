@@ -1,4 +1,4 @@
-##Sejam bem vindo ao meu git!
+##Seja bem vindo ao meu git!
 
 - 🎓 Graduada em Ciência da computação;
 - 📙 Cursando tecnólogo em Banco de Dados;
