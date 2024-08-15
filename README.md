@@ -2,12 +2,8 @@
 <!--- 🔭 Estudante do Bootcamp Desenvolvedora Java Fullstack da Generation Brazil <br> -->
 💻 Pós-graduanda em Desenvolvimento Web e cursando tecnólogo em Banco de dados <br>
 🎓 Graduada em Ciência da Computação <br>
-<div style="display: inline_block">
-  <a href="https://github.com/tarciana23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarciana23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarciana23&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+
+<br><br>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
