@@ -29,5 +29,3 @@
 
 </div>
 
-![snake gif](https://github.com/tarciana23/tarciana23/blob/output/github-contribution-grid-snake.svg)
- 
