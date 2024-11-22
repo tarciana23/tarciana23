@@ -1,9 +1,9 @@
 ### Olá, eu sou a Tarciana, Desenvolvedora Front-end !👩🏽‍💻
 <br>
 <!--- 🔭 Estudante do Bootcamp Desenvolvedora Java Fullstack da Generation Brazil <br> -->
-💻 Pós-graduanda em Desenvolvimento Web e cursando tecnólogo em Banco de dados <br>;
-🔭 Estudante do Bootcamp XP Inc. - Full Stack Developer <br>;
-🎓 Graduada em Ciência da Computação <br>.
+💻 Pós-graduanda em Desenvolvimento Web e cursando tecnólogo em Banco de dados; <br>
+🔭 Estudante do Bootcamp XP Inc. - Full Stack Developer;<br>
+🎓 Graduada em Ciência da Computação. <br>
 
 <br>
 <div style="display: inline_block"><br>
