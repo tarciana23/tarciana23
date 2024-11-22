@@ -2,7 +2,7 @@
 <br>
 <!--- 🔭 Estudante do Bootcamp Desenvolvedora Java Fullstack da Generation Brazil <br> -->
 💻 Pós-graduanda em Desenvolvimento Web e cursando tecnólogo em Banco de dados; <br>
-🔭 Estudante do Bootcamp XP Inc. - Full Stack Developer;<br>
+🔭 Estagiária em Desenvolvimento FullStack na Dbc Company;<br>
 🎓 Graduada em Ciência da Computação. <br>
 
 <br>
