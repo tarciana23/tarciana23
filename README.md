@@ -1,8 +1,8 @@
-### Olá, eu sou a Tarciana, Desenvolvedora Front-end !👩🏽‍💻
+### Olá, eu sou a Tarciana, Desenvolvedora de sistemas!👩🏽‍💻
 <br>
 <!--- 🔭 Estudante do Bootcamp Desenvolvedora Java Fullstack da Generation Brazil <br> -->
 💻 Pós-graduanda em Desenvolvimento Web e cursando tecnólogo em Banco de dados; <br>
-🔭 Estagiária em Desenvolvimento FullStack na Dbc Company;<br>
+🔭 Desenvolvedora de sistemas na Dbc Company;<br>
 🎓 Graduada em Ciência da Computação. <br>
 
 <br>
@@ -12,6 +12,8 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  
 </div>
 <br>
 <div style="display: inline_block"><br>
