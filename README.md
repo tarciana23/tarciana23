@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/tarciana-souza-oliveira-72127021a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-<a href="https://seu-portfolio.com" target="_blank">
+<a href="[https://seu-portfolio.com](https://portifolio-tarciana.vercel.app/)" target="_blank">
   <img src="https://img.shields.io/badge/-Portfólio-%23E4405F?style=for-the-badge&logo=internet-explorer&logoColor=white" target="_blank">
 </a>
 
