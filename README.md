@@ -1,4 +1,4 @@
-### Olá, eu sou a Tarciana, Desenvolvedora de sistemas!👩🏽‍💻
+### Olá, eu sou a Tarciana — Desenvolvedora Fullstack Java & React 👩🏽‍💻
 <br>
 <!--- 🔭 Estudante do Bootcamp Desenvolvedora Java Fullstack da Generation Brazil <br> -->
 📖 Pós-graduanda em Desenvolvimento Web no IFBA; <br>
