@@ -1,8 +1,8 @@
 ### Olá, eu sou a Tarciana, Desenvolvedora de sistemas!👩🏽‍💻
 <br>
 <!--- 🔭 Estudante do Bootcamp Desenvolvedora Java Fullstack da Generation Brazil <br> -->
-💻 Pós-graduanda em Desenvolvimento Web no IFBA; <br>
-🔭 Desenvolvedora de sistemas no Sicredi;<br>
+📖 Pós-graduanda em Desenvolvimento Web no IFBA; <br>
+🧩 Desenvolvedora de sistemas no Sicredi;<br>
 🎓 Graduada em Ciência da Computação. <br>
 
 <br>
