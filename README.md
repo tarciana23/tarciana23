@@ -2,7 +2,7 @@
 <br>
 <!--- 🔭 Estudante do Bootcamp Desenvolvedora Java Fullstack da Generation Brazil <br> -->
 📖 Pós-graduanda em Desenvolvimento Web no IFBA; <br>
-🧩 Desenvolvedora de sistemas no Sicredi;<br>
+🧩 Desenvolvedora Backend no Sicredi;<br>
 🎓 Bacharel Ciência da Computação pela UESB. <br>
 
 <br>
